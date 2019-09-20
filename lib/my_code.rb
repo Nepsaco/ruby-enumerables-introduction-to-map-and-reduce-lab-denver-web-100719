@@ -68,6 +68,6 @@ def reduce_to_any_true(array)
     else
       i+=1
     end
-    false
   end
+  FALSE
 end
